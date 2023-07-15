@@ -1,0 +1,45 @@
+header{
+
+
+    height: 1322px;
+    width: auto;
+    background: rgba(255, 144, 14, 0.10);
+}
+
+
+
+.header-sec1{
+display: flex;
+justify-content: space-between;
+align-items: self-start;
+
+}
+
+.header-h1{
+margin-left:150px ;
+}
+
+.menu, ul, li, a{
+
+display: flex;
+justify-content:center;
+align-items: center;
+margin-right: 30px;
+text-decoration: none;
+list-style: none;
+}
+
+.header-sec1{
+padding: 20px;
+
+
+}
+
+
+
+
+.menu{
+    margin-right: 130px;
+
+
+}
